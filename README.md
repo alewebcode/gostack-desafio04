@@ -3,8 +3,8 @@ Desenvolvimento de estrutura de layout em React
 
 Alguns conceitos utilizados:
 
-Class Componentes
-Estado e imutabilidade
-Propiedades
-Default Props e Props types
-Ciclo de vida de um componente
+Class Componentes<br>
+Estado e imutabilidade<br>
+Propiedades<br>
+Default Props e Props types<br>
+Ciclo de vida de um componente<br>
