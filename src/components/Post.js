@@ -12,7 +12,7 @@ function Post({post}){
             <span className="pl-3">{post.author.name }</span>
           </h6>
           <h6 className="card-subtitle mb-1 text-muted">
-            <span className="pl-3">{post.date}</span>
+            <span className="pl-3"><small>{post.date}</small></span>
           </h6>
           <br/>
           <p className="card-text">{post.content}</p>

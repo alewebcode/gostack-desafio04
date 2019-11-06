@@ -18,10 +18,10 @@ class PostList extends Component{
           {
             id: 1,
             author: {
-              name: "Diego Fernandes",
+              name: "Felipe Souza",
               avatar: "https://randomuser.me/api/portraits/men/21.jpg"
             },
-            content: " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+            content: "Estou aprendendo,estou gostando muito! o node é uma ferramenta poderosa,nunca pensei que fosse tão prático construir uma api utilizando apenas java script"
           },
           {
             id: 2,
@@ -29,7 +29,7 @@ class PostList extends Component{
               name: "José das coves",
               avatar: "https://randomuser.me/api/portraits/men/3.jpg"
             },
-            content: " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+            content: "Estou curtindo tb,o diego ensina muito bem!"
           }
 
         ]
@@ -41,7 +41,7 @@ class PostList extends Component{
           avatar: "https://randomuser.me/api/portraits/men/80.jpg"
         },
         date: "05 Jun 2019",
-        content: "Pessoal, alguém aí já aprendeu React?",
+        content: "Galera, algúem está aprendendo React?",
         comments: [
           {
             id: 2,
@@ -49,7 +49,7 @@ class PostList extends Component{
               name: "Eduardo Ezequiel",
               avatar: "https://randomuser.me/api/portraits/men/79.jpg"
             },
-            content: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+            content: "Eu estou!muito legal cara,estude pq vale a pena!"
           }
         ]
         // Restante dos dados de um novo post

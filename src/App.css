@@ -2,3 +2,8 @@ body{
   background:rgb(235, 233, 233);
   font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
 }
+
+ .h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}

@@ -5,9 +5,9 @@ import './App.css';
 import PostList from './components/PostList';
 import Footer from './components/Footer';
 import { library } from '@fortawesome/fontawesome-svg-core';
-import { faUser } from '@fortawesome/free-solid-svg-icons';
+import { faUserCircle  } from '@fortawesome/free-solid-svg-icons';
 
-library.add(faUser);
+library.add(faUserCircle);
 
 function App(){
   return(
