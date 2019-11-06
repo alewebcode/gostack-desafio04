@@ -5,6 +5,6 @@ Alguns conceitos utilizados:
 
 Class Componentes<br>
 Estado e imutabilidade<br>
-Propiedades<br>
+Propriedades<br>
 Default Props e Props types<br>
 Ciclo de vida de um componente<br>
